@@ -1,4 +1,4 @@
-module github.com/blocktree/openwallet/v2
+module github.com/material-on-chain/openwallet
 
 go 1.13
 
