@@ -1,4 +1,4 @@
-module github.com/material-on-chain/openwallet
+module github.com/material-on-chain/openwallet/v2
 
 go 1.13
 
